@@ -4,8 +4,8 @@
 I'm junior student at **Korea University**, majoring in **computer science** <br>
 
 ## I'm interested in 
-- applying the language model to solve **🧪cheminformatics & 🧫 bioinformatcis** problem (**💊 Drug Discovery in AI**, etc)
-- building a **explainable** machine learning and deep learning model 
+- Applying the language model to solve **🧪cheminformatics & 🧫 bioinformatcis** problem (**💊 Drug Discovery in AI**, etc)
+- Building a **explainable** machine learning and deep learning model 
 
 ## Vitae
 Research Intern @ **DMIS Lab, Korea University** (2022. 09 ~ ) <br>
