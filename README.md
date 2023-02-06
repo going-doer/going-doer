@@ -15,21 +15,12 @@ Member @ **KWEB, Korea University Web Society** (2021. 07 ~ 2022. 02)<br>
 
 ## Tech Stacks
 ### Language
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/> 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/> 
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF"/> 
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=rounded-lg&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=rounded-lg&logo=C&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/java-007396?style=rounded-lg&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=rounded-lg&logo=MySQL&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/mariaDB-003545?style=rounded-lg&logo=mariaDB&logoColor=white"/> 
   
 ### Framework
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=FFFFFF"/> 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=rounded-lg&logo=PyTorch&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/react-61DAFB?style=rounded-lg&logo=react&logoColor=black"/> 
 
 ### I've been experienced 
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OCaml-EC6813?style=rounded-lg&logo=OCaml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=rounded-lg&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=rounded-lg&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=rounded-lg&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=rounded-lg&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/OCaml-EC6813?style=rounded-lg&logo=OCaml&logoColor=white"/>
   
   
