@@ -4,7 +4,6 @@
 I'm junior student at **Korea University**, majoring in **computer science** <br>
 
 ## I'm interested in 
-(1) applying the language model to solve real-world problem efficiently (**Dataset Generation**, **Prompt Engineering**) (2) building a conversational agent that thinks and communicates like human beings (**Dialogue**, **Conversational Question Answering**) (3) finally, having a good influence to our society (**NLP for Social Good, Safe AI**). <br>
 - applying the language model to solve **cheminformatics & bioinformatcis** problem (**Drug Discovery in AI**, etc)
 - building a **explainable** machine learning and deep learning model 
 
