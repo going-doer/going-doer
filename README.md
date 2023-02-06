@@ -4,7 +4,7 @@
 I'm junior student at **Korea University**, majoring in **computer science** <br>
 
 ## I'm interested in 
-- applying the language model to solve **cheminformatics & bioinformatcis** problem (**Drug Discovery in AI**, etc)
+- applying the language model to solve **🧪cheminformatics & 🧫 bioinformatcis** problem (**💊 Drug Discovery in AI**, etc)
 - building a **explainable** machine learning and deep learning model 
 
 ## Vitae
