@@ -4,7 +4,7 @@
 I'm junior student at **Korea University**, majoring in **computer science** <br>
 
 ## I'm interested in 
-- Constructing a **knowledge graph** for reasoning, question answering and fact verification, etc.
+- Constructing a **knowledge graph** for fact verification, question answering and reasoning, etc.
 - **Document** understanding, question answering and information retrieval.
 
 ## Vitae
