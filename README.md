@@ -4,10 +4,11 @@
 I'm junior student at **Korea University**, majoring in **computer science** <br>
 
 ## I'm interested in 
-- Applying the language model to solve **🧪cheminformatics & 🧫 bioinformatcis** problem (**💊 Drug Discovery in AI**, etc)
-- Building a **explainable** machine learning and deep learning model 
+- Constructing a **knowledge graph** for reasoning, question answering and fact verification, etc.
+- **Document** understanding, question answering and information retrieval.
 
 ## Vitae
+Research Intern @ **HITS, AI-based New Drug Discovery** (2023. 03 ~ ) <br>
 Research Intern @ **DMIS Lab, Korea University** (2022. 09 ~ ) <br>
 Senior @ **AIKU, Korea University AI Society** (2023. 01 ~ ) <br>
 NLP Team Members @ **AIKU, Korea University AI Society** (2022. 09 ~ 2022.12) <br>
