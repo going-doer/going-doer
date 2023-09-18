@@ -4,13 +4,14 @@
 I'm junior student at **Korea University**, majoring in **computer science** <br>
 
 ## I'm interested in 
-- Constructing a **knowledge graph** for fact verification, question answering and reasoning, etc.
-- **Document** understanding, question answering and information retrieval.
+- Using the **Large Lanague Models** for solving the problem.
+- **Natural Language Processing** such as question answering and information retrieval, etc.
 
 ## Vitae
-Research Intern @ **HITS, AI-based New Drug Discovery** (2023. 03 ~ ) <br>
-Research Intern @ **DMIS Lab, Korea University** (2022. 09 ~ ) <br>
-Senior @ **AIKU, Korea University AI Society** (2023. 01 ~ ) <br>
+Research Intern @ **MLAI Lab, KAIST AI** (2023. 08 ~ ) <br>
+Research Intern @ **HITS, AI-based New Drug Discovery** (2023. 03 ~ 2023.08 ) <br>
+Research Intern @ **DMIS Lab, Korea University** (2022. 09 ~ 2023.08) <br>
+Senior @ **AIKU, Korea University AI Society** (2023. 01 ~ 2023.06) <br>
 NLP Team Members @ **AIKU, Korea University AI Society** (2022. 09 ~ 2022.12) <br>
 Member @ **KWEB, Korea University Web Society** (2021. 07 ~ 2022. 02)<br>
 
