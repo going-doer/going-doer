@@ -8,7 +8,7 @@ I'm junior student at **Korea University**, majoring in **computer science** <br
 - **Natural Language Processing** such as question answering and information retrieval, etc.
 
 ## Vitae
-Research Intern @ **MLAI Lab, KAIST AI** (2023. 08 ~ ) <br>
+Research Intern @ **MLAI Lab, KAIST AI** (2023. 09 ~ ) <br>
 Research Intern @ **HITS, AI-based New Drug Discovery** (2023. 03 ~ 2023.08 ) <br>
 Research Intern @ **DMIS Lab, Korea University** (2022. 09 ~ 2023.08) <br>
 Senior @ **AIKU, Korea University AI Society** (2023. 01 ~ 2023.06) <br>
