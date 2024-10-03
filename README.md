@@ -1,19 +1,20 @@
 # Hello! I'm Minju Seo 🖐
 
 ## About
-I'm junior student at **Korea University**, majoring in **computer science** <br>
+I'm M.S. student at **MLAI Lab, KAIST AI**, researching on LLM and retrieval <br>
 
 ## I'm interested in 
 - Using the **Large Lanague Models** for solving the problem.
 - **Natural Language Processing** such as question answering and information retrieval, etc.
 
 ## Vitae
-Research Intern @ **MLAI Lab, KAIST AI** (2023. 09 ~ ) <br>
-Research Intern @ **HITS, AI-based New Drug Discovery** (2023. 03 ~ 2023.08 ) <br>
-Research Intern @ **DMIS Lab, Korea University** (2022. 09 ~ 2023.08) <br>
-Senior @ **AIKU, Korea University AI Society** (2023. 01 ~ 2023.06) <br>
-NLP Team Members @ **AIKU, Korea University AI Society** (2022. 09 ~ 2022.12) <br>
-Member @ **KWEB, Korea University Web Society** (2021. 07 ~ 2022. 02)<br>
+MS Student @ MLAI Lab, KAIST AI (2024. 03 ~ ) <br>
+Research Intern @ MLAI Lab, KAIST AI (2023. 09 ~ 2024.02) <br>
+Research Intern @ HITS, AI-based New Drug Discovery (2023. 03 ~ 2023.08) <br>
+Research Intern @ DMIS Lab, Korea University (2022. 09 ~ 2023.08) <br>
+Senior @ AIKU, Korea University AI Society (2023. 01 ~ 2023.06) <br>
+NLP Team Members @ AIKU, Korea University AI Society (2022. 09 ~ 2022.12) <br>
+Member @ KWEB, Korea University Web Society (2021. 07 ~ 2022. 02)<br>
 
 ## Tech Stacks
 ### Language
