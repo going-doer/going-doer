@@ -4,7 +4,7 @@
 I'm M.S. student at **MLAI Lab, KAIST AI**, researching on LLM and retrieval <br>
 
 ## I'm interested in 
-- Using the **Large Lanague Models** for solving the problem.
+- Using the **Large Language Models** for solving the problem.
 - **Natural Language Processing** such as question answering and information retrieval, etc.
 
 ## Vitae
